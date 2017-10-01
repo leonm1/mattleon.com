@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Change me!</title>
+
+
+    <!-- These are your CSS files -->
+    <link rel="stylesheet" href="style.css" type="text/css">
+   
+</head>
+
+<body>
+    <div id="app">
+
+        <!-- Begin left half of website !-->
+        <div class="content" id="sidebar">
+            
+                <br>
+                <p>Get a picture taken by a Mars Rover on this date</p>
+                <input id="date" placeholder="YYYY-MM-DD" id="date">
+                <select id="camera">
+                    <option value="" disabled selected>Camera</option>                        
+                    <option value='fhaz'>fhaz</option>
+                    <!-- need more options-->
+                  
+                </select>
+                <button>Get Pic</button>
+
+                <br>
+                <br>
+
+                
+                <input placeholder="What number?" id="phone">
+                <input placeholder="Text content" id="text-content">
+                <button id="send-text" disabled></button>
+        </div>
+        <!-- End left half -->
+
+        <!-- Begin right half of website !-->
+        <div class="content" id="picture">
+
+            <img src="https://cdn-az.allevents.in/banners/8d0d2e8fae8ea4a9778e435ddc69ccf2" id="mars">
+        </div>
+        <!-- End right half !-->
+
+
+    </div>
+    <!-- Careful! Don't edit after this point unless you absolutely need to! !-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="mars.js"></script>
+    <script src="fun.js"></script>
+</body>
+
+</html>
