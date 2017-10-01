@@ -18,17 +18,17 @@
 
         <!-- Begin left half of website !-->
         <div class="content" id="sidebar">
-            <h2>Text Mars Pics!!</h2>
+            <h2 id="header">Text Mars Pics!!</h2>
                 <br>
                 <p>Get a picture taken by a Mars Rover on this date</p>
-                <input id="date" placeholder="YYYY-MM-DD" id="date">
+                <input id="date" placeholder="YYYY-MM-DD">
                 <select id="camera">
                     <option value="" disabled selected>Camera</option>                        
                     <option value='fhaz'>fhaz</option>
                     <option value='rhaz'>rhaz</option>
                     <option value='navcam'>navcam</option>                  
                 </select>
-                <button>Get Pic</button>
+                <button onclick="getNasaPhoto()">Get Pic</button>
 
                 <br>
                 <br>
@@ -37,7 +37,7 @@
                 <p>Text that photo here!</p>
                 <input placeholder="Cell # (+18888888)" id="phone">
                 <input placeholder="Text content" id="text-content">
-                <button id="send-text" disabled>Text Photo</button>
+                <button id="send-text" disabled onclick="textNasaPhoto()">Text Photo</button>
         </div>
         <!-- End left half -->
 
@@ -45,7 +45,6 @@
         <div class="content" id="picture">
 
             <img src="http://images.mentalfloss.com/sites/default/files/istock-511366776.jpg?resize=1100x740" id="mars">
-            <p>Rockhopper Penguin</p>
         </div>
         <!-- End right half !-->
 

@@ -7,12 +7,12 @@ twilio.accountSid = 'AC90de1b430b0883796e652f70646032b3';
 twilio.apiKey = '17d80c21fc2cb4ee8741dfb9714024d6';
 
 // the image on the right
-const image = 'FIX ME'; // we need to get the image
+const image = document.getElementById('mars'); // we need to get the image
 
 function getNasaPhoto() {
     // we're getting the user input from the document
     let date = document.getElementById('date').value;
-    let camera = "FIX ME"; // we need to get the camera value
+    let camera = document.getElementById('camera').value; // we need to get the camera value
 
     // we're putting the information into a nice format
     let params = {
@@ -58,8 +58,8 @@ function textNasaPhoto() {
 
     // sets our username and password to the correct things
     // we technically don't need these lines of code but they make the 'beforeSend' function clearer
-    let username = "TWILIO ACCOUNT SID";
-    let password = "TWILIO API KEY";
+    let username = twilio.accountSid;
+    let password = twilio.apiKey;
 
     
     $.ajax({
