@@ -15,6 +15,7 @@ body{
 #sidebar{
     
     width: 25%;
+    background: #008CFFFF
     border-right: 1px solid black;
 }
 
