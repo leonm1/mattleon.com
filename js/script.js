@@ -90,7 +90,7 @@ $(document).ready(function () {
 
     // Hide Menu
 
-    $('.profile-btn, .contact-btn').on('click', function () {
+    $('.contact-btn').on('click', function () {
 
         var introWidth = $('.introduction').width(),
             menuWidth = $('.menu').width();
@@ -111,7 +111,7 @@ $(document).ready(function () {
     // Show Reletive Page Onclick
 
     $('.menu div.profile-btn').on('click', function () {
-        $('.profile-page').fadeIn(1200);
+        window.location.href = 'https://www.linkedin.com/in/matthewleon/';
     });
 
     $('.menu div.resume-btn').on('click', function () {
@@ -173,101 +173,20 @@ $(document).ready(function () {
 
     $('.contact-details .social-media [data-toggle="tooltip"]').tooltip();
 
-    /*  ------------
-         Pie Charts
-        ------------  */
-
-    $(function () {
-
-        var fillColor = $('.footer').css('background-color'); // Get background color of footer to set relevent fill color in pie charts
-
-        // Initiate EasyPieChart
-
-        $('.skill').easyPieChart({
-            barColor: fillColor,
-            trackColor: '#c6c6c6',
-            scaleColor: '#c6c6c6',
-            scaleLength: 8,
-            lineWidth: 8,
-            size: 150,
-            lineCap: 'butt'
-        });
-
-    });
-
-    /*  -------------------------------
-         Filterizer ( for portfolio page )
-        -------------------------------  */
-
-    $(function () {
-        
-        var filterizd = $('.projet-items').filterizr({});
-
-
-    });
-
-    /*  -------------------------------
-         PopUp ( for portfolio page )
-        -------------------------------  */
-
-    $(function () {
-        $('.show-popup').popup({
-            keepInlineChanges: true,
-            speed: 500
-        });
-    });
-
-    /*  -----------------------------------------------------
-         OwlCarousel ( for portfolio page : testimonials slider )
-        -----------------------------------------------------  */
-
-    $(function () {
-        $(".owl-carousel").owlCarousel({
-            navigation: false, // Show next and prev buttons
-            slideSpeed: 200,
-            paginationSpeed: 300,
-            singleItem: true
-        });
-    });
-    
-    /*  -------------
-         Contact Form
-        ------------- */
-
-    $('#contactForm').submit(function () {
-        
-        $.ajax({
-            type: "POST",
-            url: "php/contact.php",
-            data: $('#contactForm').serialize(),
-            success: function (msg) {
-                if (msg == 'SEND') {
-                    $('.success').fadeIn();
-                    $('.error').fadeOut();
-                    $('#contactForm')[0].reset();
-                } else {
-                    $('.success').fadeOut();
-                    $('.error').fadeIn().find('h3').text(msg);
-                }
-            }
-        });
-        return false;
-    });
-
     /*  -------------------------------
          Google Map ( for contact page )
         -------------------------------  */
 
     $('#google-map').gMap({
-        latitude: 31.562130,
-        longitude: 74.319460,
+        latitude: 36.148649,
+        longitude: -86.804972,
         maptype: 'TERRAIN',
         scrollwheel: false,
-        zoom: 14,
+        zoom: 10,
         markers: [
             {
-                latitude: 31.562130,
-                longitude: 74.319460,
+                latitude: 36.148649,
+                longitude: -86.804972,
                 html: "I am Here!",
                 icon: {
                     image: "images/icon/map_marker.png",
