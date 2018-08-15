@@ -14,7 +14,7 @@
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Resume.svg">
   <defs
      id="defs2">
@@ -1546,21 +1546,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1936381"
-     inkscape:cx="440.79293"
-     inkscape:cy="630.0123"
+     inkscape:zoom="0.77556819"
+     inkscape:cx="256.56584"
+     inkscape:cy="655.5824"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="true"
      units="in"
-     inkscape:window-width="2976"
-     inkscape:window-height="1931"
-     inkscape:window-x="1932"
-     inkscape:window-y="57"
+     inkscape:window-width="1333"
+     inkscape:window-height="826"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:measure-start="453.543,907.087"
-     inkscape:measure-end="454.344,877.26"
-     inkscape:lockguides="true">
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:lockguides="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid11028"
@@ -1597,7 +1601,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1628,273 +1632,6 @@
          x="160"
          y="157.02078"
          style="stroke-width:0.26458332" /></text>
-    <rect
-       style="fill:#e8e8e9;fill-opacity:1;stroke:#e8e8e9;stroke-width:0.30496716;stroke-opacity:1"
-       id="rect11039-5"
-       width="56"
-       height="148"
-       x="152"
-       y="55.399994" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="180.06357"
-       y="68.352699"
-       id="text11582"><tspan
-         sodipodi:role="line"
-         id="tspan11580"
-         x="180.06357"
-         y="68.352699"
-         style="font-size:6.3499999px;line-height:100%;text-align:center;text-anchor:middle;fill:#476170;fill-opacity:1;stroke-width:0.26458332">Technical Skills</tspan><tspan
-         sodipodi:role="line"
-         x="180.06357"
-         y="73.630028"
-         style="font-size:3.52777767px;line-height:100%;text-align:center;text-anchor:middle;fill:#476170;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11598">(in order of proficiency)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:114.99999762%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="159.73128"
-       y="81.108589"
-       id="text11639"><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="81.108589"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11641">Go</tspan><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="85.976921"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11645">Kubernetes/Helm</tspan><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="90.845253"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11647">Git</tspan><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="95.713585"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11649">Continuous Integration</tspan><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="100.58192"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11651">GNU/Linux</tspan><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="105.45026"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11653">CSS</tspan><tspan
-         sodipodi:role="line"
-         x="159.73128"
-         y="110.31859"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11655">React/Elm</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:100%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="179.99915"
-       y="109.42942"
-       id="text11582-0"><tspan
-         sodipodi:role="line"
-         id="tspan11580-1"
-         x="179.99915"
-         y="112.64744"
-         style="font-size:5.64444447px;line-height:100%;text-align:center;text-anchor:middle;fill:#476170;fill-opacity:1;stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="179.99915"
-         y="116.88078"
-         style="font-size:3.52777767px;line-height:100%;text-align:center;text-anchor:middle;fill:#476170;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11598-3">(in no particular order)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:114.99999762%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="159.91731"
-       y="124.35937"
-       id="text11639-7"><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="124.35937"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11976">C++</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="129.22771"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11921">Javascript</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="134.09604"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11992">Kotlin</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="138.96437"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11923">Java</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="143.8327"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11915">Serverless deployment</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="148.70103"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11911">Microsoft Windows</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="153.56937"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11984">Apple MacOS</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="158.4377"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11988">Amazon Web Services</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="180.03256"
-       y="166.8716"
-       id="text11582-2"><tspan
-         sodipodi:role="line"
-         x="180.03256"
-         y="166.8716"
-         style="font-size:6.3499999px;line-height:100%;text-align:center;text-anchor:middle;fill:#476170;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11598-5">Additionally</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:114.99999762%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="159.91731"
-       y="175.04402"
-       id="text11639-1"><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="175.04402"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan11655-8">Public speaking</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="179.91235"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12055">Singing</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="184.78069"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12057">Problem solving</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="189.64902"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12059">Teamwork</tspan><tspan
-         sodipodi:role="line"
-         x="159.91731"
-         y="194.51735"
-         style="font-size:4.23333311px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12061">Agile/Scrum</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0.13229167px;word-spacing:0px;text-anchor:start;display:inline;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.6613331"
-       y="38.817123"
-       id="text4571-1"><tspan
-         sodipodi:role="line"
-         id="tspan4569-3"
-         x="7.6613331"
-         y="38.817123"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444494px;line-height:5.64444447px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.26458332">CAMPUS INVOLVEMENT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.7312827"
-       y="80.32045"
-       id="text4579-3"><tspan
-         sodipodi:role="line"
-         id="tspan4577-3"
-         x="7.7312827"
-         y="80.32045"
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">ORGANIZATION &amp; LEADERSHIP</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="16.7703"
-       y="88.098373"
-       id="text4599-7"><tspan
-         sodipodi:role="line"
-         x="16.7703"
-         y="88.098373"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12309">VandyHacks V board member serving on the Hacker Experience </tspan><tspan
-         sodipodi:role="line"
-         x="16.7703"
-         y="93.390038"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1332">and Logistics teams</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.6403327"
-       y="45.795731"
-       id="text4579-9-6"><tspan
-         sodipodi:role="line"
-         id="tspan4577-2-7"
-         x="7.6403327"
-         y="45.795731"
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">PUBLIC SPEAKING</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="16.68762"
-       y="54.089195"
-       id="text4599-5-0"><tspan
-         sodipodi:role="line"
-         x="16.68762"
-         y="54.089195"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12256">Represented the Eastern United States in the Optimist Oratorical </tspan><tspan
-         sodipodi:role="line"
-         x="16.68762"
-         y="59.380863"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12278">Championship against seven other competitors from all over the world</tspan></text>
-    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-9-2"
-       cx="14.264279"
-       cy="52.552483"
-       r="0.51819021" />
-    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-94-1"
-       cx="14.264279"
-       cy="86.908844"
-       r="0.51819021" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0.13229167px;word-spacing:0px;text-anchor:start;display:inline;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.6613331"
-       y="116.66301"
-       id="text4571-1-9"><tspan
-         sodipodi:role="line"
-         id="tspan4569-3-6"
-         x="7.6613331"
-         y="116.66301"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444494px;line-height:5.64444447px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.26458332">SELECTED PROJECTS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.9173174"
-       y="169.95215"
-       id="text4579-3-0"><tspan
-         sodipodi:role="line"
-         id="tspan4577-3-6"
-         x="7.9173174"
-         y="169.95215"
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">CLASSES TAKEN OR IN PROGRESS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1906,146 +1643,565 @@
          y="237.12538"
          style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4601-8-9" /></text>
+    <g
+       id="g6037"
+       transform="translate(4.0421673,-245.29651)">
+      <g
+         id="g1393"
+         transform="translate(0,324.77265)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0.13229167px;word-spacing:0px;text-anchor:start;display:inline;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="8"
+           y="124.75134"
+           id="text4571-1"><tspan
+             sodipodi:role="line"
+             id="tspan4569-3"
+             x="8"
+             y="124.75134"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444494px;line-height:5.64444447px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.26458332">CAMPUS INVOLVEMENT</tspan></text>
+        <g
+           id="g4731"
+           transform="translate(0,4.5178215)">
+          <g
+             id="g5830">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="7.6403327"
+               y="128.47096"
+               id="text4579-9-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan4577-2-7"
+                 x="7.6403327"
+                 y="128.47096"
+                 style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">PUBLIC SPEAKING</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="16.68762"
+               y="134.59337"
+               id="text4599-5-0"><tspan
+                 sodipodi:role="line"
+                 x="16.68762"
+                 y="134.59337"
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan12256">Represented the Eastern United States in the Optimist Oratorical </tspan><tspan
+                 sodipodi:role="line"
+                 x="16.68762"
+                 y="139.88504"
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan12278">Championship against seven other competitors from all over the world</tspan></text>
+            <circle
+               style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
+               id="path7644-9-2"
+               cx="14.264279"
+               cy="133.05666"
+               r="0.51819021" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot7625-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none"
+               transform="matrix(0.26458333,0,0,0.26458333,-75.312448,55.507012)"><flowRegion
+                 id="flowRegion7627-2"
+                 style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"><rect
+                   id="rect7629-2"
+                   width="448.87976"
+                   height="55.33762"
+                   x="347.71652"
+                   y="330.33072"
+                   style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1" /></flowRegion><flowPara
+                 id="flowPara7631-1">Vice President of Vanderbilt Toastmasters, overseeing outreach, education of new members, and the web presence</flowPara></flowRoot>            <circle
+               style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
+               id="path7644-5"
+               cx="14.264279"
+               cy="145.51599"
+               r="0.51819021" />
+          </g>
+        </g>
+        <g
+           transform="translate(0,-32.080462)"
+           id="g4762">
+          <g
+             id="g5817">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="7.7312827"
+               y="195.39999"
+               id="text4579-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan4577-3"
+                 x="7.7312827"
+                 y="195.39999"
+                 style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">ORGANIZATION &amp; LEADERSHIP</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="16.7703"
+               y="201.73055"
+               id="text4599-7"><tspan
+                 sodipodi:role="line"
+                 x="16.7703"
+                 y="201.73055"
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan12309">VandyHacks V board member serving on the Hacker Experience </tspan><tspan
+                 sodipodi:role="line"
+                 x="16.7703"
+                 y="207.02222"
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1332">and Logistics teams</tspan></text>
+            <circle
+               style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
+               id="path7644-94-1"
+               cx="14.264279"
+               cy="200.54102"
+               r="0.51819021" />
+            <text
+               id="text12315"
+               y="213.91255"
+               x="16.7703"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 y="213.91255"
+                 x="16.7703"
+                 sodipodi:role="line"
+                 id="tspan1376">Founder and Vice President of Vanderbilt Free and Open Source Software</tspan><tspan
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 y="219.20422"
+                 x="16.7703"
+                 sodipodi:role="line"
+                 id="tspan1380">Society, educating students on and promoting the ideas of open source</tspan></text>
+            <circle
+               r="0.51819021"
+               cy="212.84364"
+               cx="14.264279"
+               id="circle12317"
+               style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+          </g>
+        </g>
+      </g>
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.8263674"
-       y="124.69994"
-       id="text4579-9-6-0"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:114.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="168"
+       y="243.39999"
+       id="text5680"><tspan
          sodipodi:role="line"
-         id="tspan4577-2-7-8"
-         x="7.8263674"
-         y="124.69994"
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">SOFTWARE ENGINEERING INTERN | FULCRUM GT | MAY '18 - PRESENT</tspan></text>
+         id="tspan5678"
+         x="168"
+         y="252.2346"
+         style="stroke-width:0.26458332" /></text>
     <text
+       id="text4801"
+       y="130.61435"
+       x="143.65717"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99118376px;line-height:114.99999762%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.27212614"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="16.873653"
-       y="132.51094"
-       id="text4599-5-0-9"><tspan
+       transform="scale(1.0285499,0.97224258)"><tspan
+         id="tspan4799"
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#475770;fill-opacity:1;stroke-width:0.27212614"
+         y="130.61435"
+         x="143.65717"
+         sodipodi:role="line">(completed)</tspan><tspan
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+         y="135.20421"
+         x="143.65717"
          sodipodi:role="line"
-         x="16.873653"
-         y="132.51094"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan4682"><tspan
-   style="fill:#31596f;fill-opacity:1"
-   id="tspan4708">Pitch Pipe for Alexa</tspan> | UB Hacking 2017 | Best Freshman Hack | voice-</tspan><tspan
+         id="tspan5664">CS 1101 Problem Solving (A+)</tspan><tspan
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+         y="139.79407"
+         x="143.65717"
          sodipodi:role="line"
-         x="16.873653"
-         y="137.80261"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan4686">controlled pitch pipe for singing in tune whenever Alexa is nearby</tspan></text>
+         id="tspan4815">CS 2201 Data Structures (A)</tspan><tspan
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.27212614"
+         y="144.38393"
+         x="143.65717"
+         sodipodi:role="line"
+         id="tspan4817">(in progress)</tspan><tspan
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+         y="148.9738"
+         x="143.65717"
+         sodipodi:role="line"
+         id="tspan4821">CS 3251 Intermediate Software Design</tspan><tspan
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+         y="153.56366"
+         x="143.65717"
+         sodipodi:role="line"
+         id="tspan4823">CS 2212 Discrete Structures</tspan><tspan
+         style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+         y="158.15352"
+         x="143.65717"
+         sodipodi:role="line"
+         id="tspan4819">CS 2231 Computer Organization</tspan></text>
+    <g
+       id="g1341"
+       transform="translate(3.2890961)">
+      <text
+         transform="scale(1.0285499,0.97224258)"
+         id="text11582"
+         y="166.95947"
+         x="140.69057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:100%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.27212614"
+         xml:space="preserve"><tspan
+           id="tspan11598"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.27212614"
+           y="166.95947"
+           x="140.69057"
+           sodipodi:role="line">TECHNICAL SKILLS</tspan></text>
+      <text
+         transform="scale(1.0285499,0.97224258)"
+         id="text11639"
+         y="174.85526"
+         x="140.65892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99118376px;line-height:114.99999762%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.27212614"
+         xml:space="preserve"><tspan
+           id="tspan11641"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.27212614"
+           y="174.85526"
+           x="140.65892"
+           sodipodi:role="line">(in order of proficiency)</tspan><tspan
+           id="tspan5660"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="179.44511"
+           x="140.65892"
+           sodipodi:role="line">Go</tspan><tspan
+           id="tspan11645"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="184.03497"
+           x="140.65892"
+           sodipodi:role="line">Kubernetes/Helm</tspan><tspan
+           id="tspan11647"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="188.62483"
+           x="140.65892"
+           sodipodi:role="line">Git</tspan><tspan
+           id="tspan11649"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="193.21471"
+           x="140.65892"
+           sodipodi:role="line">Continuous Integration</tspan><tspan
+           id="tspan11651"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="197.80457"
+           x="140.65892"
+           sodipodi:role="line">GNU/Linux</tspan><tspan
+           id="tspan11653"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="202.39442"
+           x="140.65892"
+           sodipodi:role="line">CSS</tspan><tspan
+           id="tspan11655"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="206.98428"
+           x="140.65892"
+           sodipodi:role="line">React/Elm</tspan><tspan
+           id="tspan4835"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.27212614"
+           y="211.57414"
+           x="140.65892"
+           sodipodi:role="line">(in no particular order)</tspan><tspan
+           id="tspan5642"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="216.164"
+           x="140.65892"
+           sodipodi:role="line">C++</tspan><tspan
+           id="tspan5644"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="220.75386"
+           x="140.65892"
+           sodipodi:role="line">Javascript</tspan><tspan
+           id="tspan5646"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="225.34373"
+           x="140.65892"
+           sodipodi:role="line">Kotlin</tspan><tspan
+           id="tspan5648"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="229.93359"
+           x="140.65892"
+           sodipodi:role="line">Java</tspan><tspan
+           id="tspan5650"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="234.52345"
+           x="140.65892"
+           sodipodi:role="line">Microsoft Windows</tspan><tspan
+           id="tspan5652"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="239.11331"
+           x="140.65892"
+           sodipodi:role="line">Apple MacOS</tspan><tspan
+           id="tspan5658"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           y="243.70317"
+           x="140.65892"
+           sodipodi:role="line">Amazon Web Services</tspan></text>
+      <text
+         transform="scale(1.0285499,0.97224258)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:100%;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.27212614"
+         x="140.52124"
+         y="122.71855"
+         id="text4785"><tspan
+           sodipodi:role="line"
+           x="140.52124"
+           y="122.71855"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.27212614"
+           id="tspan4783">CLASSES</tspan></text>
+      <text
+         transform="scale(1.0285499,0.97224258)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:100%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.27212614"
+         x="140.69057"
+         y="251.77875"
+         id="text5688"><tspan
+           sodipodi:role="line"
+           x="140.69057"
+           y="251.77875"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.27212614"
+           id="tspan5686">ADDITIONAL SKILLS</tspan></text>
+      <text
+         transform="scale(1.0285499,0.97224258)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62834859px;line-height:114.99999762%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.27212614"
+         x="140.65892"
+         y="259.18362"
+         id="text5722"><tspan
+           sodipodi:role="line"
+           x="140.65892"
+           y="259.18362"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614"
+           id="tspan5720">Public Speaking</tspan><tspan
+           id="tspan5754"
+           sodipodi:role="line"
+           x="140.65892"
+           y="263.7735"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614">Agile/Scrum</tspan><tspan
+           id="tspan5756"
+           sodipodi:role="line"
+           x="140.65892"
+           y="268.36334"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614">Singing</tspan><tspan
+           id="tspan5758"
+           sodipodi:role="line"
+           x="140.65892"
+           y="272.95322"
+           style="font-size:3.99118376px;line-height:114.99999762%;text-align:start;text-anchor:start;fill:#2e2e38;fill-opacity:1;stroke-width:0.27212614">Teamwork</tspan></text>
+    </g>
+    <g
+       id="g5974"
+       transform="translate(4.1693336,-61.341296)">
+      <text
+         id="text4571-1-9"
+         y="180.63409"
+         x="7.6613331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0.13229167px;word-spacing:0px;text-anchor:start;display:inline;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444494px;line-height:5.64444447px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.26458332"
+           y="180.63409"
+           x="7.6613331"
+           id="tspan4569-3-6"
+           sodipodi:role="line">SELECTED PROJECTS</tspan></text>
+      <g
+         transform="translate(0,1.3645872)"
+         id="g5939">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="7.8263674"
+           y="187.9518"
+           id="text4579-9-6-0"><tspan
+             sodipodi:role="line"
+             id="tspan4577-2-7-8"
+             x="7.8263674"
+             y="187.9518"
+             style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">PITCH PIPE FOR ALEXA | UB HACKING '17 | BEST FRESHMAN HACK</tspan></text>
+        <g
+           id="g4694"
+           transform="translate(0,-20.271166)">
+          <text
+             id="text4599-5-0-9"
+             y="214.39244"
+             x="16.873653"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan4686"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+               y="214.39244"
+               x="16.873653"
+               sodipodi:role="line">Voice-controlled pitch pipe for singing in tune whenever Alexa is nearby</tspan></text>
+          <circle
+             r="0.51819021"
+             cy="212.98851"
+             cx="14.450314"
+             id="path7644-9-2-3"
+             style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+        </g>
+      </g>
+      <g
+         transform="translate(0,1.7937206)"
+         id="g5931">
+        <text
+           id="text966"
+           y="201.15929"
+           x="7.8263674"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332"
+             y="201.15929"
+             x="7.8263674"
+             id="tspan964"
+             sodipodi:role="line">STREAMPLAY </tspan></text>
+        <g
+           id="g4700"
+           transform="translate(0,-21.137337)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="16.873653"
+             y="228.90114"
+             id="text970"><tspan
+               sodipodi:role="line"
+               x="16.873653"
+               y="228.90114"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+               id="tspan968">Lightweight, cross-platform app to stream audio from one computer to </tspan><tspan
+               id="tspan4687"
+               sodipodi:role="line"
+               x="16.873653"
+               y="234.19281"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332">another over a network</tspan></text>
+          <circle
+             style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
+             id="circle972"
+             cx="14.450314"
+             cy="227.45198"
+             r="0.51819021" />
+        </g>
+      </g>
+      <g
+         transform="translate(0,1.8817035)"
+         id="g5922">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="7.8263674"
+           y="219.9478"
+           id="text976"><tspan
+             sodipodi:role="line"
+             id="tspan974"
+             x="7.8263674"
+             y="219.9478"
+             style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">FLIGHTSENSE | HACKILLINOIS '18</tspan></text>
+        <g
+           id="g4706"
+           transform="translate(0,-16.951384)">
+          <text
+             id="text980"
+             y="243.40984"
+             x="16.873653"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan978"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+               y="243.40984"
+               x="16.873653"
+               sodipodi:role="line">Data mining project utilizing machine learning to determine the chance</tspan><tspan
+               id="tspan4689"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+               y="248.70151"
+               x="16.873653"
+               sodipodi:role="line">of a flight being cancelled due to weather given forcasted conditions</tspan></text>
+          <circle
+             r="0.51819021"
+             cy="241.91545"
+             cx="14.450314"
+             id="circle982"
+             style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+        </g>
+      </g>
+      <g
+         transform="translate(0,1.3645918)"
+         id="g5913">
+        <text
+           id="text5882"
+           y="239.73438"
+           x="7.8263674"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332"
+             y="239.73438"
+             x="7.8263674"
+             id="tspan5880"
+             sodipodi:role="line">HACKSECURE</tspan></text>
+        <g
+           transform="translate(0,2.8351848)"
+           id="g5892">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="16.873653"
+             y="243.40984"
+             id="text5888"><tspan
+               sodipodi:role="line"
+               x="16.873653"
+               y="243.40984"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+               id="tspan5900">Service to periodically scan hackathon websites for common SSL </tspan><tspan
+               sodipodi:role="line"
+               x="16.873653"
+               y="248.70151"
+               style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+               id="tspan5904">vulnerabilities and publish the results to a server-side-rendered webapp</tspan></text>
+          <circle
+             style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
+             id="circle5890"
+             cx="14.450314"
+             cy="241.91545"
+             r="0.51819021" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#818197;fill-opacity:1;stroke:#e8e8e9;stroke-width:0.18885031;stroke-opacity:1"
+       id="rect535"
+       width="0.51455665"
+       height="157.21214"
+       x="144.09442"
+       y="112.09341" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot7625-8-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-75.04374,53.499657)"><flowRegion
-         id="flowRegion7627-1-9"
-         style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"><rect
-           id="rect7629-6-6"
-           width="433.44919"
-           height="41.352108"
-           x="347.71652"
-           y="330.33072"
-           style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara7631-8-7"><flowSpan
-   style="fill:#31596f;fill-opacity:1"
-   id="flowSpan4716">StreamPlay</flowSpan> | lightweight, cross-platform app to stream audio from one computer to another over a network</flowPara><flowPara
-         id="flowPara4684" /></flowRoot>    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-5-7"
-       cx="14.450314"
-       cy="144.03842"
-       r="0.51819021" />
-    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-9-2-3"
-       cx="14.450314"
-       cy="131.31654"
-       r="0.51819021" />
-    <flowRoot
+       id="flowRoot1342"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion1344"><rect
+           id="rect1346"
+           width="259.16483"
+           height="609.87543"
+           x="536.38092"
+           y="416.46887" /></flowRegion><flowPara
+         id="flowPara1348" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot7625-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-75.312448,-24.997169)"><flowRegion
-         id="flowRegion7627-2"
-         style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"><rect
-           id="rect7629-2"
-           width="448.87976"
-           height="55.33762"
-           x="347.71652"
-           y="330.33072"
-           style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara7631-1">Vice President of Vanderbilt Toastmasters, overseeing outreach, education of new members, and the web presence</flowPara></flowRoot>    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-5"
-       cx="14.264279"
-       cy="65.011818"
-       r="0.51819021" />
-    <text
-       id="text12315"
-       y="100.28039"
-       x="16.7703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         y="100.28039"
-         x="16.7703"
-         sodipodi:role="line"
-         id="tspan1376">Founder and Vice President of Vanderbilt Free and Open Source Software</tspan><tspan
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         y="105.57205"
-         x="16.7703"
-         sodipodi:role="line"
-         id="tspan1380">Society, educating students on and promoting the ideas of open source</tspan></text>
-    <circle
-       r="0.51819021"
-       cy="99.211472"
-       cx="14.264279"
-       id="circle12317"
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-75.04374,86.051646)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none"
-       id="flowRoot4696"
-       xml:space="preserve"><flowRegion
-         style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"
-         id="flowRegion4690"><rect
-           style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"
-           y="330.33072"
-           x="347.71652"
-           height="63.178352"
-           width="509.03973"
-           id="rect4688" /></flowRegion><flowPara
-         id="flowPara4700">CS 1101 - Problem Solving (A+) | CS 2201 - Data Structures (A) |</flowPara><flowPara
-         id="flowPara4694">CS  3251 - Intermediate Software Design (In prog.) | CS 2231 - Computer Organization (In prog.) | CS 2212 - Computer Organization (in prog.)</flowPara></flowRoot>    <circle
-       r="0.51819021"
-       cy="176.06004"
-       cx="14.450314"
-       id="circle4698"
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-75.04374,65.608528)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#31596f;fill-opacity:1;stroke:none"
-       id="flowRoot1422"
-       xml:space="preserve"><flowRegion
-         style="font-size:16px;line-height:125%;fill:#31596f;fill-opacity:1"
-         id="flowRegion1414"><rect
-           style="font-size:16px;line-height:125%;fill:#31596f;fill-opacity:1"
-           y="330.33072"
-           x="347.71652"
-           height="40.273956"
-           width="510.40155"
-           id="rect1412" /></flowRegion><flowPara
-         id="flowPara1420">FlightSense <flowSpan
-   style="fill:#000000"
-   id="flowSpan1428">| HackIllinois 2018 | data mining project utilizing machine learning to determine the chance of a flight cancellations due to weather</flowSpan></flowPara></flowRoot>    <circle
-       r="0.51819021"
-       cy="155.61736"
-       cx="14.450314"
-       id="circle1424"
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
-  </g>
+       id="flowRoot1358"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion1360"><rect
+           id="rect1362"
+           width="282.37363"
+           height="653.71429"
+           x="537.67035"
+           y="415.1795" /></flowRegion><flowPara
+         id="flowPara1364" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1305"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion1307"><rect
+           id="rect1309"
+           width="263.03296"
+           height="656.29303"
+           x="536.38092"
+           y="391.9707" /></flowRegion><flowPara
+         id="flowPara1311"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -2064,7 +2220,7 @@
        xml:space="preserve"
        id="flowRoot11076"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:100%;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:1.5px;word-spacing:0px;text-anchor:start;fill:#5e7f91;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-72.095017,7.365002)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-67.925683,10.432934)"><flowRegion
          id="flowRegion11078"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:100%;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:1.5px;text-anchor:start;fill:#5e7f91;fill-opacity:1"><rect
            id="rect11080"
@@ -2089,36 +2245,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#5e7f91;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.8828669"
-       y="27.344362"
+       x="12.0522"
+       y="30.412279"
        id="text4567"><tspan
          sodipodi:role="line"
          id="tspan4565"
-         x="7.8828669"
-         y="27.344362"
-         style="font-size:5.99722242px;fill:#5e7f91;fill-opacity:1;stroke-width:0.26458332">VANDERBILT UNIVERSITY CLASS OF 2021</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0.13229167px;word-spacing:0px;text-anchor:start;display:inline;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.6613331"
-       y="201.16336"
-       id="text4571"><tspan
-         sodipodi:role="line"
-         id="tspan4569"
-         x="7.6613331"
-         y="201.16336"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444494px;line-height:5.64444447px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.26458332">INDUSTRY EXPERIENCE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.917325"
-       y="236.11446"
-       id="text4579"><tspan
-         sodipodi:role="line"
-         id="tspan4577"
-         x="7.917325"
-         y="236.11446"
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">A/V TECHNICAL ASSOCIATE | VANDERBILT UNIVERSITY | AUG '17 - PRESENT</tspan></text>
+         x="12.0522"
+         y="30.412279"
+         style="font-size:5.99722242px;fill:#5e7f91;fill-opacity:1;stroke-width:0.26458332">COMPUTER SCIENCE | VANDERBILT UNIVERSITY CLASS OF 2021</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2132,104 +2266,40 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="16.956341"
-       y="243.89238"
-       id="text4599"><tspan
-         sodipodi:role="line"
-         x="16.956341"
-         y="243.89238"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan4601">Test AV systems in classroms, troubleshoot technical issues, and oversee equipment pickup and delivery</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="7.8263674"
-       y="208.46567"
-       id="text4579-9"><tspan
-         sodipodi:role="line"
-         id="tspan4577-2"
-         x="7.8263674"
-         y="208.46567"
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">SOFTWARE ENGINEERING INTERN | FULCRUM GT | MAY '18 - PRESENT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="16.873661"
-       y="216.27667"
-       id="text4599-5"><tspan
-         sodipodi:role="line"
-         x="16.873661"
-         y="216.27667"
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan7623">Built the backend for an education-focused web and mobile app involving websocket communication</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7625"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-75.043731,131.60917)"><flowRegion
-         id="flowRegion7627"
-         style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"><rect
-           id="rect7629"
-           width="705.57513"
-           height="75.516541"
-           x="347.71652"
-           y="330.33072"
-           style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara7631">Worked as DevOps engineer for 5 intern teams implementing continuous integration/continuous kubernetes deployment for intern projects</flowPara></flowRoot>    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644"
-       cx="14.450322"
-       cy="221.61813"
-       r="0.51819021" />
-    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-9"
-       cx="14.450322"
-       cy="215.08228"
-       r="0.51819021" />
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:end;letter-spacing:0.11135242px;word-spacing:0px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke:none;stroke-width:0.22270478"
-       x="207.47519"
-       y="19.66083"
+       x="203.174"
+       y="15.4"
        id="text7667"><tspan
          sodipodi:role="line"
          id="tspan7665"
-         x="207.58632"
-         y="19.66083"
+         x="203.28513"
+         y="15.4"
          style="font-size:4.23333311px;line-height:125%;text-align:end;letter-spacing:0.111125px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke-width:0.22270478">71 Hotchkiss St.</tspan><tspan
          sodipodi:role="line"
-         x="207.58632"
-         y="24.952496"
+         x="203.28513"
+         y="20.691666"
          style="font-size:4.23333311px;line-height:125%;text-align:end;letter-spacing:0.111125px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke-width:0.22270478"
          id="tspan1262">Jamestown, NY 14701</tspan><tspan
          sodipodi:role="line"
-         x="207.58632"
-         y="30.244162"
+         x="203.28513"
+         y="25.983332"
          style="font-size:4.23333311px;line-height:125%;text-align:end;letter-spacing:0.111125px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke-width:0.22270478"
          id="tspan1264">+1 (716) 640-2689</tspan><tspan
          sodipodi:role="line"
-         x="207.58632"
-         y="35.535828"
+         x="203.28513"
+         y="31.275"
          style="font-size:4.23333311px;line-height:125%;text-align:end;letter-spacing:0.111125px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke-width:0.22270478"
          id="tspan11532">ml@mattleon.com</tspan><tspan
          sodipodi:role="line"
-         x="207.58632"
-         y="40.827492"
+         x="203.28513"
+         y="36.566666"
          style="font-size:4.23333311px;line-height:125%;text-align:end;letter-spacing:0.111125px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke-width:0.22270478"
          id="tspan1268">github.com/leonm1</tspan><tspan
          sodipodi:role="line"
-         x="207.58632"
-         y="46.11916"
+         x="203.28513"
+         y="41.85833"
          style="font-size:4.23333311px;line-height:125%;text-align:end;letter-spacing:0.111125px;text-anchor:end;fill:#3f5561;fill-opacity:1;stroke-width:0.22270478"
          id="tspan1270">linkedin.com/in/matthewleon</tspan></text>
-    <circle
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
-       id="path7644-94"
-       cx="14.450322"
-       cy="242.70287"
-       r="0.51819021" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98474979px;line-height:150%;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3f5561;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2243,43 +2313,166 @@
          id="tspan11964"><tspan
            id="tspan1274"
            style="font-size:4.98474979px;line-height:150%;text-align:start;text-anchor:start;fill:#3f5561;fill-opacity:1;stroke-width:0.26458332" /></tspan></text>
-    <text
-       id="text1344"
-       y="252.15611"
-       x="7.917325"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332"
-         y="252.15611"
-         x="7.917325"
-         id="tspan1342"
-         sodipodi:role="line">TECH DIRECTOR | FIRST COVENANT CHURCH | JUNE '17 - PRESENT</tspan></text>
-    <text
-       id="text1348"
-       y="259.93402"
-       x="16.956341"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         y="259.93402"
-         x="16.956341"
-         sodipodi:role="line"
-         id="tspan1352">Designed, purchased, installed, and trained volunteers on a new audio/visual system for first covenant </tspan><tspan
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         y="265.22568"
-         x="16.956341"
-         sodipodi:role="line"
-         id="tspan1354">church including a completely new sound and visual system and enterprise-grade mesh network</tspan><tspan
-         style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
-         y="270.51736"
-         x="16.956341"
-         sodipodi:role="line"
-         id="tspan1356">deployment. As if that isn't enough, designed, created, and currently maintain web presence</tspan></text>
-    <circle
-       r="0.51819021"
-       cy="258.74451"
-       cx="14.450322"
-       id="circle1350"
-       style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+    <g
+       id="g960"
+       transform="translate(4.019175,-267.96094)">
+      <g
+         id="g6008">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Gidole;-inkscape-font-specification:Gidole;text-align:start;letter-spacing:0.13229167px;word-spacing:0px;text-anchor:start;display:inline;fill:#476170;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="7.6613331"
+           y="310.67239"
+           id="text4571"><tspan
+             sodipodi:role="line"
+             id="tspan4569"
+             x="7.6613331"
+             y="310.67239"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444494px;line-height:5.64444447px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;letter-spacing:0.13229167px;text-anchor:start;fill:#476170;fill-opacity:1;stroke-width:0.26458332">INDUSTRY EXPERIENCE</tspan></text>
+        <g
+           transform="translate(0,0.68229548)"
+           id="g5845">
+          <text
+             id="text4579-9"
+             y="318.67239"
+             x="7.8263674"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332"
+               y="318.67239"
+               x="7.8263674"
+               id="tspan4577-2"
+               sodipodi:role="line">SOFTWARE ENGINEERING INTERN | FULCRUM GT | MAY '18 - PRESENT</tspan></text>
+          <g
+             id="g5794"
+             transform="translate(0,-2.3497115)">
+            <g
+               id="g5777">
+              <flowRoot
+                 transform="matrix(0.26458333,0,0,0.26458333,-75.043731,242.48218)"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none"
+                 id="flowRoot7625"
+                 xml:space="preserve"><flowRegion
+                   style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"
+                   id="flowRegion7627"><rect
+                     style="font-size:16px;line-height:125%;fill:#2e2e38;fill-opacity:1"
+                     y="330.33072"
+                     x="347.71652"
+                     height="75.516541"
+                     width="705.57513"
+                     id="rect7629" /></flowRegion><flowPara
+                   id="flowPara7631">Worked as DevOps engineer for 5 intern teams implementing continuous integration/continuous kubernetes deployment for intern projects</flowPara></flowRoot>              <circle
+                 r="0.51819021"
+                 cy="332.49115"
+                 cx="14.450322"
+                 id="path7644"
+                 style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+            </g>
+            <g
+               id="g5782">
+              <text
+                 id="text4599-5"
+                 y="327.14969"
+                 x="16.873661"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   id="tspan7623"
+                   style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                   y="327.14969"
+                   x="16.873661"
+                   sodipodi:role="line">Built the backend for an education-focused web and mobile app involving websocket communication</tspan></text>
+              <circle
+                 r="0.51819021"
+                 cy="325.95529"
+                 cx="14.450322"
+                 id="path7644-9"
+                 style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(0,-1.9712112)"
+           id="g5853">
+          <text
+             id="text4579"
+             y="346.67239"
+             x="7.917325"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332"
+               y="346.67239"
+               x="7.917325"
+               id="tspan4577"
+               sodipodi:role="line">A/V TECHNICAL ASSOCIATE | VANDERBILT UNIVERSITY | AUG '17 - PRESENT</tspan></text>
+          <g
+             id="g5770"
+             transform="translate(0,-2.2640318)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="16.956341"
+               y="354.76538"
+               id="text4599"><tspan
+                 sodipodi:role="line"
+                 x="16.956341"
+                 y="354.76538"
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan4601">Test AV systems in classrooms, troubleshoot technical issues, and oversee equipment pickup and delivery</tspan></text>
+            <circle
+               style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225"
+               id="path7644-94"
+               cx="14.450322"
+               cy="353.57587"
+               r="0.51819021" />
+          </g>
+        </g>
+        <g
+           transform="translate(0,-2.6948948)"
+           id="g5863">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;display:inline;fill:#31596f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="7.917325"
+             y="360.77194"
+             id="text1344"><tspan
+               sodipodi:role="line"
+               id="tspan1342"
+               x="7.917325"
+               y="360.77194"
+               style="font-size:4.23333311px;line-height:4.23333311px;fill:#31596f;fill-opacity:1;stroke-width:0.26458332">TECH DIRECTOR | FIRST COVENANT CHURCH | JUNE '17 - PRESENT</tspan></text>
+          <g
+             id="g5765"
+             transform="translate(0,-4.1346374)">
+            <text
+               id="text1348"
+               y="370.80704"
+               x="16.956341"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:0px;word-spacing:0px;fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 y="370.80704"
+                 x="16.956341"
+                 sodipodi:role="line"
+                 id="tspan1352">Designed, purchased, installed, and trained volunteers on a new audio/visual system for first covenant </tspan><tspan
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 y="376.09869"
+                 x="16.956341"
+                 sodipodi:role="line"
+                 id="tspan1354">church including a completely new sound and visual system and enterprise-grade mesh network</tspan><tspan
+                 style="font-size:4.23333311px;line-height:125%;fill:#2e2e38;fill-opacity:1;stroke-width:0.26458332"
+                 y="381.39038"
+                 x="16.956341"
+                 sodipodi:role="line"
+                 id="tspan1356">deployment. As if that isn't enough, designed, created, and currently maintain web presence</tspan></text>
+            <circle
+               r="0.51819021"
+               cy="369.61752"
+               cx="14.450322"
+               id="circle1350"
+               style="fill:#2e2e38;fill-opacity:1;stroke-width:0.06855225" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
