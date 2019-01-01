@@ -23,6 +23,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: default;
 }
 
 .main {
@@ -54,6 +55,7 @@ a {
 a:hover {
     filter: opacity(60%);
     transition: 0.5s;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 420px) and (orientation: portrait) {
