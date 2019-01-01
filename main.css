@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Sofia Pro';
-    src: url("./fonts/SofiaProRegular.woff2") format("woff2"), url("./fonts/SofiaProRegular.woff") format("woff");
+    src: url(./fonts/SofiaProRegular.woff2)format("woff2"), url("./fonts/SofiaProRegular.woff")format("woff");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Sofia Pro';
-    src: url("./fonts/SofiaProSemiBold.woff2") format("woff2"), url("./fonts/SofiaProSemiBold.woff") format("woff");
+    src: url(./fonts/SofiaProSemiBold.woff2)format("woff2"), url("./fonts/SofiaProSemiBold.woff")format("woff");
     font-weight: 700;
-    font-style: normal;
+    font-style: normal
 }
 
 html, body {
@@ -20,10 +20,13 @@ html, body {
     overflow: hidden;
     font-family: 'Sofia Pro', serif;
     font-size: 1.1em;
+    display: -webkit-box;
     display: flex;
+    -webkit-box-pack: center;
     justify-content: center;
+    -webkit-box-align: center;
     align-items: center;
-    cursor: default;
+    cursor: default
 }
 
 .main {
@@ -31,68 +34,76 @@ html, body {
     margin: 0;
     height: 200%;
     width: 200%;
+    display: -webkit-box;
     display: flex;
     flex-flow: row nowrap;
+    -webkit-animation: rotate 3s both;
     animation: rotate 3s both;
     overflow: visible;
+    will-change: transform
 }
 
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0
 }
 
 li {
-    padding-top: 1em;
+    padding-top: 1em
 }
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: inherit
 }
 
 a:hover {
+    -webkit-filter: opacity(60%);
     filter: opacity(60%);
-    transition: 0.5s;
-    cursor: pointer;
+    -webkit-transition: .5s;
+    transition: .5s;
+    cursor: pointer
 }
 
-@media screen and (max-width: 420px) and (orientation: portrait) {
+@media screen and (max-width:420px)and (orientation:portrait) {
     h1, h2 {
+        -webkit-transform: translateX(-100%);
         transform: translateX(-100%);
-        color: white;
+        color: white
     }
 }
 
-@media screen and (min-width: 420px) and (max-width: 767px) and (orientation: portrait) {
+@media screen and (min-width:420px)and (max-width:767px)and (orientation:portrait) {
     h1, h2 {
+        -webkit-transform: translateX(-300px);
         transform: translateX(-300px);
-        color: white;
+        color: white
     }
 }
 
-@media screen and (max-height: 380px) and (orientation: landscape) {
+@media screen and (max-height:380px)and (orientation:landscape) {
     .side {
-        transform: translateY(-40px);
+        -webkit-transform: translateY(-40px);
+        transform: translateY(-40px)
     }
 }
 
-@media screen and (max-height: 360px) {
+@media screen and (max-height:360px) {
     .main {
-        font-size: 0.8em;
+        font-size: .8em
     }
 }
 
 h1 {
     font-size: 2em;
-    letter-spacing: 0.25ch;
-    margin: 0;
+    letter-spacing: .25ch;
+    margin: 0
 }
 
 h2 {
     margin: 0;
-    font-size: 1em;
+    font-size: 1em
 }
 
 footer {
@@ -100,69 +111,89 @@ footer {
     padding-top: 2em;
     font-size: 1.2em;
     font-weight: 700;
-    animation: slidefrombot 2.3s 0.75s cubic-bezier(.17, .84, .44, 1) both;
-    ;
+    -webkit-animation: slidefrombot 2.3s .75s cubic-bezier(.17, .84, .44, 1)both;
+    animation: slidefrombot 2.3s .75s cubic-bezier(.17, .84, .44, 1)both;
 }
 
 .side {
     height: 100%;
     width: 200%;
+    display: -ms-grid;
     display: grid;
-    grid-template: "." 1.5fr "title" 1fr "main" 1fr "contact" 1fr "." 1.5fr / 1fr;
+    grid-template: "."1.5fr"title"1fr"main"1fr"contact"1fr"."1.5fr / 1fr;
+    -webkit-box-pack: center;
     justify-content: center;
     padding: 2.5em;
     box-sizing: border-box;
-    overflow: visible;
+    overflow: visible
 }
 
 .side>main {
     align-self: flex-end;
     padding-bottom: 2em;
-    animation: slidefromright 1s 1s cubic-bezier(.36, .2, 0, 1.45) both;
-    grid-area: title;
+    -webkit-animation: slidefromright 1s 1s cubic-bezier(.36, .2, 0, 1.45)both;
+    animation: slidefromright 1s 1s cubic-bezier(.36, .2, 0, 1.45)both;
+    grid-area: title
 }
 
 .center-links {
+    -ms-grid-row-align: center;
     align-self: center;
-    grid-area: main;
+    grid-area: main
 }
 
 .links-title {
-    padding-bottom: 0.25em;
+    padding-bottom: .25em;
     font-size: 1.1em;
-    font-weight: 700;
+    font-weight: 700
 }
 
 #left {
     width: 100%;
     left: -50%;
     position: absolute;
-    background: linear-gradient(to bottom left, hsl(195, 100%, 25%), hsl(195, 100%, 30%)) hsl(195, 100%, 25%);
+    background: -webkit-linear-gradient(top right, hsl(195, 100%, 25%), hsl(195, 100%, 30%))hsl(195, 100%, 25%);
+    background: linear-gradient(to bottom left, hsl(195, 100%, 25%), hsl(195, 100%, 30%))hsl(195, 100%, 25%);
     text-align: right;
     color: white;
-    animation: slidefromleft 1s;
+    -webkit-animation: slidefromleft 1s;
+    animation: slidefromleft 1s
 }
 
 #right {
     position: absolute;
     width: 100%;
     left: 50%;
+    -webkit-box-pack: justify;
     justify-content: space-between;
-    text-align: left;
+    text-align: left
 }
 
 .links {
-    justify-self: center;
+    justify-self: center
 }
 
 #work-links {
-    animation: slidefromtop 1s 0.5s;
-    animation-fill-mode: both;
+    -webkit-animation: slidefromtop 1s .5s;
+    animation: slidefromtop 1s .5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
 }
 
 #online-links {
+    -webkit-animation: slidefrombot 1.5s;
     animation: slidefrombot 1.5s;
-    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+@-webkit-keyframes fadein {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
 }
 
 @keyframes fadein {
@@ -174,47 +205,112 @@ footer {
     }
 }
 
-@keyframes slidefromleft {
+@-webkit-keyframes slidefromleft {
     from {
-        transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%)
     }
     to {
-        transform: translateX(0);
+        -webkit-transform: translateX(0);
+        transform: translateX(0)
+    }
+}
+
+@keyframes slidefromleft {
+    from {
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%)
+    }
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0)
+    }
+}
+
+@-webkit-keyframes slidefromtop {
+    from {
+        -webkit-transform: translateY(-100vh);
+        transform: translateY(-100vh)
+    }
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
     }
 }
 
 @keyframes slidefromtop {
     from {
-        transform: translateY(-100vh);
+        -webkit-transform: translateY(-100vh);
+        transform: translateY(-100vh)
     }
     to {
-        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+}
+
+@-webkit-keyframes slidefrombot {
+    from {
+        -webkit-transform: translateY(100vh);
+        transform: translateY(100vh)
+    }
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
     }
 }
 
 @keyframes slidefrombot {
     from {
-        transform: translateY(100vh);
+        -webkit-transform: translateY(100vh);
+        transform: translateY(100vh)
     }
     to {
-        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+}
+
+@-webkit-keyframes slidefromright {
+    from {
+        -webkit-transform: translateX(80vw);
+        transform: translateX(80vw)
+    }
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0)
     }
 }
 
 @keyframes slidefromright {
     from {
-        transform: translateX(80vw);
+        -webkit-transform: translateX(80vw);
+        transform: translateX(80vw)
     }
     to {
-        transform: translateX(0);
+        -webkit-transform: translateX(0);
+        transform: translateX(0)
+    }
+}
+
+@-webkit-keyframes rotate {
+    from {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+    to {
+        -webkit-transform: rotate(20deg);
+        transform: rotate(20deg)
     }
 }
 
 @keyframes rotate {
     from {
-        transform: rotate(0);
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
     }
     to {
-        transform: rotate(20deg);
+        -webkit-transform: rotate(20deg);
+        transform: rotate(20deg)
     }
 }
