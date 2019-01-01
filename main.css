@@ -1,0 +1,197 @@
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url("./fonts/SofiaProRegular.woff2") format("woff2"), url("./fonts/SofiaProRegular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url("./fonts/SofiaProSemiBold.woff2") format("woff2"), url("./fonts/SofiaProSemiBold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    font-family: 'Sofia Pro', serif;
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: linear-gradient(to right, #006080 0%,#006080 20%,#ffffff 20%,#ffffff 100%); */
+}
+
+html:hover {
+    background-position: 0 0;
+}
+
+.main {
+    padding: 0;
+    margin: 0;
+    height: 200%;
+    width: 200%;
+    display: flex;
+    flex-flow: row nowrap;
+    animation: rotate 3s both;
+    overflow: visible;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding-top: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    filter: opacity(60%);
+    transition: 0.5s;
+}
+
+h1 {
+    font-size: 2em;
+    letter-spacing: 0.25ch;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    font-size: 1em;
+}
+
+footer {
+    grid-area: contact;
+    padding-top: 2em;
+    font-size: 1.2em;
+    font-weight: 700;
+    animation: slidefrombot 2.3s 0.75s cubic-bezier(.17, .84, .44, 1) both;
+    ;
+}
+
+.side {
+    height: 100%;
+    width: 200%;
+    display: grid;
+    grid-template: "." 1.5fr "title" 1fr "main" 1fr "contact" 1fr "." 1.5fr / 1fr;
+    justify-content: center;
+    padding: 2.5em;
+    box-sizing: border-box;
+    overflow: visible;
+}
+
+.side>main {
+    align-self: flex-end;
+    padding-bottom: 2em;
+    animation: slidefromright 1s 1s cubic-bezier(.36, .2, 0, 1.45) both;
+    grid-area: title;
+}
+
+.center-links {
+    align-self: center;
+    grid-area: main;
+}
+
+.links-title {
+    padding-bottom: 0.25em;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+#left {
+    width: 100%;
+    left: -50%;
+    position: absolute;
+    background: linear-gradient(to bottom left, hsl(195, 100%, 25%), hsl(195, 100%, 30%)) hsl(195, 100%, 25%);
+    text-align: right;
+    color: white;
+    animation: slidefromleft 1s;
+}
+
+#right {
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.links {
+    justify-self: center;
+}
+
+#work-links {
+    animation: slidefromtop 1s 0.5s;
+    animation-fill-mode: both;
+}
+
+#online-links {
+    animation: slidefrombot 1.5s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes slidefromleft {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slidefromtop {
+    from {
+        transform: translateY(-100vh);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes slidefrombot {
+    from {
+        transform: translateY(100vh);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes slidefromright {
+    from {
+        transform: translateX(50vw);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0);
+    }
+    to {
+        transform: rotate(20deg);
+    }
+}
