@@ -23,11 +23,6 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-image: linear-gradient(to right, #006080 0%,#006080 20%,#ffffff 20%,#ffffff 100%); */
-}
-
-html:hover {
-    background-position: 0 0;
 }
 
 .main {
