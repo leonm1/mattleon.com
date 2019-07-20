@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap");
+
+@page {
+  size: letter portrait;
+}
+
+:root {
+  --item-spacing: 6pt;
+}
+
+.sheet {
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+}
+
+ul,
+ol {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h1 {
+  text-transform: unset;
+  font-size: 40pt;
+}
+
+h2 {
+  font-size: 16pt;
+  color: #6a6a6a;
+}
+
+h3 {
+  font-size: 12pt;
+  color: #333333;
+}
+
+h4 {
+  font-size: 11pt;
+}
+
+h5 {
+  font-size: 9pt;
+  text-transform: unset;
+}
+
+h3 + h4:before {
+  content: "|";
+  display: inline-block;
+  width: 1em;
+  text-align: center;
+}
+
+header {
+  /* Layout */
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+
+  margin-top: 5mm;
+  padding-bottom: 4mm;
+
+  /* Horizontal divider */
+  border-bottom: 1px solid #000000;
+}
+
+header > ul {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  color: #6a6a6a;
+  padding: 0;
+}
+
+header li,
+#skills li {
+  list-style-type: none;
+}
+
+header li ~ li:before,
+#skills li ~ li:before {
+  /* Insert pipe "|" divider instead of bullet, except on first element. */
+  content: "|";
+  display: inline-block;
+  width: 1em;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  height: 100%;
+
+  /* Page margins + 4mm in between page-wide divider and top of content */
+  margin: 4mm 12mm 8mm;
+
+  font-size: 11pt;
+  line-height: 125%;
+  font-weight: 300;
+}
+
+.row {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-end; /* Baseline align content */
+}
+
+section .left {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: flex-end;
+
+  text-transform: uppercase;
+}
+
+section .right {
+  font-weight: normal;
+  color: #6a6a6a;
+}
+
+section .item {
+  margin-top: var(--item-spacing);
+}
+
+#skills h2,
+#education h2 {
+  /* These sections don't contain .item elements, give them the same padding *
+   * between the header and the first element they would have if they did.   */
+  margin-bottom: var(--item-spacing);
+}
+
+#skills ol {
+  display: flex;
+  flex-flow: row nowrap;
+}
