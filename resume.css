@@ -120,14 +120,12 @@ main {
 
 .row {
   display: flex;
-  flex-flow: row nowrap;
   justify-content: space-between;
   align-items: flex-end; /* Baseline align content */
 }
 
 section .left {
   display: flex;
-  flex-flow: row nowrap;
   align-items: flex-end;
 
   text-transform: uppercase;
@@ -151,5 +149,4 @@ section .item {
 
 #skills ol {
   display: flex;
-  flex-flow: row nowrap;
 }
