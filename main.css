@@ -14,6 +14,13 @@
   font-style: normal;
 }
 
+:root {
+  --right-color: black;
+  --right-bg: white;
+  --right-color-dark: white;
+  --right-bg-dark: #222;
+}
+
 html,
 body {
   padding: 0;
@@ -30,6 +37,7 @@ body {
   -webkit-box-align: center;
   align-items: center;
   cursor: default;
+  background-color: var(--right-bg);
 }
 
 .main {
@@ -172,6 +180,7 @@ footer {
     hsl(195, 100%, 25%);
   text-align: right;
   color: white;
+
   -webkit-animation: slidefromleft 1s;
   animation: slidefromleft 1s;
 }
@@ -183,6 +192,8 @@ footer {
   -webkit-box-pack: justify;
   justify-content: space-between;
   text-align: left;
+  background-color: var(--right-bg);
+  color: var(--right-color);
 }
 
 .links {
@@ -201,6 +212,18 @@ footer {
   animation: slidefrombot 1.5s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+}
+
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background-color: var(--right-bg-dark);
+  }
+
+  #right {
+    color: var(--right-color-dark);
+    background-color: var(--right-bg-dark);
+  }
 }
 
 @-webkit-keyframes fadein {
