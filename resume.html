@@ -6,7 +6,7 @@
 	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
 	<title>Matt Leon's Resume</title>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.4.1/paper.min.css">
 	<link rel='stylesheet' type='text/css' href='./resume.css'>
 </head>
@@ -16,9 +16,9 @@
 		<header>
 			<h1>Matt Leon</h1>
 			<ul id="contact-info">
-				<li>matthew.leon@vanderbilt.edu</li>
-				<li>(716)640-2689</li>
-				<li>Nashville, TN</li>
+				<li>ml@mattleon.com</li>
+				<li>(716) 640-2689</li>
+				<li>Cambridge, MA</li>
 				<li>mattleon.com</li>
 				<li>GH: @leonm1</li>
 			</ul>
@@ -28,15 +28,10 @@
 				<h2>Education</h2>
 				<div class="row">
 					<div class="left">
-						<h3>Vanderbilt University</h3>
-						<h4>BS Computer Science</h4>
+						<h3>BS, Honors in Computer Science</h3>
+						<h4>Vanderbilt University</h4>
 					</div>
-					<div class="right">Nashville, TN | Aug 2017 - May 2020</div>
-				</div>
-				<div class="row">
-					<div class="left">
-						<h4>Major GPA: 3.67</h3>
-					</div>
+					<div class="right">3.521 GPA | Aug 2017 - May 2020</div>
 				</div>
 			</section>
 			<section id="work">
@@ -44,7 +39,34 @@
 				<div class="item">
 					<div class="row">
 						<div class="left">
-							<h3>Google</h3>
+							<h3>Google Cloud</h3>
+							<h4>Software Engineer III (L4)</h4>
+						</div>
+						<div class="right">Cambridge, MA | Dec 2022 - Present</div>
+					</div>
+					<ul>
+						<li>Data plane engineer for Google Cloud Service Extensions, a WebAssembly execution platform for low-latency execution of customer-provided WebAssembly modules (primarily in C++)</li>
+						<li>Implemented resource usage limits on customer code, efficient recovery mechanisms for customer code faults, customer-facing monitoring, and security isolation between traffic path and execution environment</li>
+						<li>Led design and implementation of endpoint programming control plane for a WebAssembly-execution-as-a-service modeling thousands of customer binaries with millions of QPS as services for real-time horizontal scaling</li>
+					</ul>
+				</div>
+				<div class="item">
+					<div class="row">
+						<div class="left">
+							<h3>Google Travel</h3>
+							<h4>Software Engineer II (L3)</h4>
+						</div>
+						<div class="right">Cambridge, MA | Aug 2020 - Dec 2022</div>
+					</div>
+					<ul>
+                                                <li>Customized hotel owner experience in Google Business Profile. Independently delivered end-to-end projects (including PRD, engineering design, implementation, and VP-level launch sign-off) involving data ingestion, processing, UI, and experiment analysis leading to double-digit % lifts in engagements.</li>
+						<li>UI: TypeScript, Backend: Java, and Data processing and analysis: SQL.</li>
+					</ul>
+				</div>
+                                <div class="item">
+					<div class="row">
+						<div class="left">
+							<h3>Google Chrome</h3>
 							<h4>Software Engineering Intern</h4>
 						</div>
 						<div class="right">Montréal, QC, Canada | May 2019 - Aug 2019</div>
@@ -65,11 +87,9 @@
 						<div class="right">Chicago, IL | May 2018 - Dec. 2018</div>
 					</div>
 					<ul>
-						<li>Ideated and created Jolt (https://jolt.education), a web/iOS native app for collaboration in
-							classrooms</li>
 						<li>Worked as DevOps engineer for 5 intern teams implementing continuous integration/continuous
 							kubernetes deployment</li>
-						<li>Senior backend engineer (Go) for Jolt; made all technical decisions and implemented them.
+						<li>Senior backend engineer (golang) for Jolt; designed and implemented backend supporting Google docs-style whiteboarding tools for real-time collaboration between students.
 						</li>
 					</ul>
 				</div>
@@ -85,43 +105,8 @@
 						<div class="right">github.com/VandyHacks/vaken</div>
 					</div>
 					<div class="description">
-						Open-source hackathon registration and management system designed for ease of adoption
+						Open-source hackathon registration and management system designed for ease of adoption and used by thousands of students across several hackathons
 					</div>
-				</div>
-				<div class="item">
-					<div class="row">
-						<div class="left">
-							<h3>Streamplay</h3>
-							<h4>Go, FFMPEG, Zeroconf</h4>
-						</div>
-						<div class="right">github.com/leonm1/streamplay</div>
-					</div>
-					<div class="description">
-						Lightweight, cross-platform app to stream audio over a network with zero configuration
-					</div>
-				</div>
-				<div class="item">
-					<div class="row">
-						<div class="left">
-							<h3>FlightSense</h3>
-							<h4>Python, JavaScript, TensorFlow</h4>
-						</div>
-						<div class="right">github.com/leonm1/FlightSense</div>
-					</div>
-					<div class="description">
-						HackIllinois submission using machine-learning to predict flights cancelled due to weather
-					</div>
-				</div>
-				<div class="item">
-					<div class="row">
-						<div class="left">
-							<h3>Pitch Pipe for Alexa</h3>
-							<h4>JavaScript</h4>
-						</div>
-						<div class="right">devpost.com/software/pitch-pipe-for-alexa</div>
-					</div>
-					<div class="description">
-						Won Best Freshman Hack as a solo project at UB Hacking 2017 </div>
 				</div>
 				<div class="item">
 					<div class="row">
@@ -129,8 +114,7 @@
 						<div class="right">github.com/leonm1</div>
 					</div>
 					<div class="description">
-						Proponent of open source software. Contributions include Microsoft/vscode, leonm1/slim-fetch,
-						and jakeday/linux-surface</div>
+						Maintainer of NixOS/nixpkgs (home automation team), contributor to proxy-wasm, and linux-surface</div>
 				</div>
 			</section>
 			<section id="leadership">
@@ -141,14 +125,10 @@
 							<h3>President</h3>
 							<h4>VandyHacks</h4>
 						</div>
-						<div class="right">Vanderbilt University | Jan. 2019 - Present</div>
+						<div class="right">Vanderbilt University | 2019 </div>
 					</div>
 					<ul>
-						<li>Lead organizer behind VandyHacks VI, 650+ person hackathon in Fall 2019</li>
-						<li>Lead and coordinate team of 35 board members organizing monthly events focusing on
-							edifying and inspiring fellow students</li>
-						<li>Past contributions include VandyHacks V dev member producing all hacker-facing web
-							assets</li>
+						<li>Lead organizer behind VandyHacks VI, 650+ student hackathon in Fall 2019</li>
 					</ul>
 				</div>
 				<div class="item">
@@ -157,13 +137,10 @@
 							<h3>Co-Founder</h3>
 							<h4>VandyFOSS</h4>
 						</div>
-						<div class="right">Vanderbilt University | Aug. 2018 - Present</div>
+						<div class="right">Vanderbilt University | 2018 - 2020 </div>
 					</div>
 					<ul>
-						<li>Started (and currently serve as Vice President of) the Free and Open Source Society
-							(FOSS) at Vanderbilt University</li>
-						<li>Teach students how to contribute to open source</li>
-						<li>Provide GNU/Linux office hours for community</li>
+						<li>Started the Free and Open Source Society (FOSS) at Vanderbilt University, teaching students how to contribute to open source</li>
 					</ul>
 				</div>
 			</section>
@@ -173,14 +150,14 @@
 					<h4>Languages</h4>
 					<h5>(In order of proficiency)</h5>
 					<ol>
-						<li>JavaScript</li>
 						<li>TypeScript</li>
-						<li>Go</li>
-						<li>HTML/CSS</li>
 						<li>C++</li>
-						<li>C</li>
+						<li>HTML/CSS</li>
 						<li>SQL</li>
+						<li>Go</li>
+						<li>JavaScript</li>
 						<li>Python</li>
+                                                <li>Rust</li>
 					</ol>
 				</div>
 				<div class="row">
@@ -189,31 +166,30 @@
 					<ol>
 						<li>Linux</li>
 						<li>Git</li>
-						<li>React (Hooks)</li>
-						<li>Polymer</li>
-						<li>Kubernetes</li>
+                                                <li>Nix</li>
 						<li>Docker</li>
-						<li>Lit-Element</li>
+                                                <li>WebAssembly</li>
 						<li>Bazel</li>
+						<li>React</li>
+						<li>Lit Element</li>
 					</ol>
 				</div>
 				<div class="row">
-					<h4>Base Classes</h4>
-					<h3></h3>
-					<ol>
-						<li>Data Structures</li>
-						<li>Algorithms</li>
-						<li>Operating Systems</li>
-						<li>Software Design Patterns</li>
-					</ol>
-				</div>
-				<div class="row">
-					<h4>Depth Classes</h4>
+					<h4>Selected Curricula</h4>
 					<h3></h3>
 					<ol>
 						<li>Web-based Systems Architecture</li>
+						<li>Operating Systems</li>
 						<li>Network Security</li>
+					</ol>
+				</div>
+				<div class="row">
+					<h4></h4>
+					<h3></h3>
+					<ol>
 						<li>Cloud Computing</li>
+						<li>Reverse Engineering</li>
+						<li>Data Privacy in Biomedicine</li>
 					</ol>
 				</div>
 			</section>

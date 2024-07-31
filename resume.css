@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,475&display=block");
 
 @page {
   size: letter portrait;
@@ -38,12 +38,13 @@ h5 {
 
 h1 {
   text-transform: unset;
-  font-size: 40pt;
+  font-size: 30pt;
 }
 
 h2 {
+  color: #000;
   font-size: 16pt;
-  color: #6a6a6a;
+  font-weight: 475;
 }
 
 h3 {
@@ -132,8 +133,8 @@ section .left {
 }
 
 section .right {
-  font-weight: normal;
-  color: #6a6a6a;
+  font-weight: 475;
+  color: #999;
 }
 
 section .item {

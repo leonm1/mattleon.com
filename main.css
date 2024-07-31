@@ -48,10 +48,17 @@ body {
   display: -webkit-box;
   display: flex;
   flex-flow: row nowrap;
-  -webkit-animation: rotate 3s both;
-  animation: rotate 3s both;
   overflow: visible;
   will-change: transform;
+  -webkit-transform: rotate(20deg);
+  transform: rotate(20deg);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .main {
+    -webkit-animation: rotate 3s both;
+    animation: rotate 3s both;
+  }
 }
 
 ul {
@@ -80,9 +87,12 @@ a:hover {
 @media screen and (max-width: 420px) and (orientation: portrait) {
   h1,
   h2 {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%);
+    -webkit-transform: translateX(-263px);
+    transform: translateX(-263px);
     color: white;
+  }
+  section.side {
+    padding: 1em;
   }
 }
 
@@ -124,9 +134,14 @@ footer {
   padding-top: 2em;
   font-size: 1.2em;
   font-weight: 700;
-  -webkit-animation: slidefrombot 2.3s 0.75s cubic-bezier(0.17, 0.84, 0.44, 1)
-    both;
-  animation: slidefrombot 2.3s 0.75s cubic-bezier(0.17, 0.84, 0.44, 1) both;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  footer {
+    -webkit-animation: slidefrombot 2.3s 0.75s cubic-bezier(0.17, 0.84, 0.44, 1)
+      both;
+    animation: slidefrombot 2.3s 0.75s cubic-bezier(0.17, 0.84, 0.44, 1) both;
+  }
 }
 
 .side {
@@ -145,9 +160,14 @@ footer {
 .side > main {
   align-self: flex-end;
   padding-bottom: 2em;
-  -webkit-animation: slidefromright 1s 1s cubic-bezier(0.36, 0.2, 0, 1.45) both;
-  animation: slidefromright 1s 1s cubic-bezier(0.36, 0.2, 0, 1.45) both;
   grid-area: title;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .side > main {
+    -webkit-animation: slidefromright 1s 1s cubic-bezier(0.36, 0.2, 0, 1.45) both;
+    animation: slidefromright 1s 1s cubic-bezier(0.36, 0.2, 0, 1.45) both;
+  }
 }
 
 .center-links {
@@ -180,9 +200,13 @@ footer {
     hsl(195, 100%, 25%);
   text-align: right;
   color: white;
+}
 
-  -webkit-animation: slidefromleft 1s;
-  animation: slidefromleft 1s;
+@media (prefers-reduced-motion: no-preference) {
+  #left {
+    -webkit-animation: slidefromleft 1s;
+    animation: slidefromleft 1s;
+  }
 }
 
 #right {
@@ -200,18 +224,20 @@ footer {
   justify-self: center;
 }
 
-#work-links {
-  -webkit-animation: slidefromtop 1s 0.5s;
-  animation: slidefromtop 1s 0.5s;
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
-}
+@media (prefers-reduced-motion: no-preference) {
+  #work-links {
+    -webkit-animation: slidefromtop 1s 0.5s;
+    animation: slidefromtop 1s 0.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
 
-#online-links {
-  -webkit-animation: slidefrombot 1.5s;
-  animation: slidefrombot 1.5s;
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
+  #online-links {
+    -webkit-animation: slidefrombot 1.5s;
+    animation: slidefrombot 1.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
