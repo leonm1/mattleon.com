@@ -206,10 +206,6 @@ footer {
   color: var(--right-color);
 }
 
-.links {
-  justify-self: center;
-}
-
 @media (prefers-reduced-motion: no-preference) {
   #work-links {
     -webkit-animation: slidefromtop 1s 0.5s;
